@@ -7,7 +7,7 @@ public class WordCounter extends JFrame implements ActionListener {
     JButton b;
 
     WordCounter() {
-        super("Char Word count tool - JTP");
+        super("Char Word count tool by Mayank Badal ❣️");
         lb1 = new JLabel("characters : ");
         lb1.setBounds(50, 50, 100, 20);
         lb2 = new JLabel(" words : ");
